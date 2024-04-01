@@ -1,0 +1,8 @@
+# GENERATED. DO NOT MODIFY.
+RewriteEngine on
+RewriteRule ^nexus-jenkins-plugin\.hpi$ /integrations/jenkins/nexus-jenkins-plugin-3.19.1-01.hpi [R=302,L]
+RewriteRule ^jenkins\.war$ /integrations/jenkins/war/2.426.1/jenkins.war [R=302,L]
+# GENERATED. DO NOT MODIFY.
+RewriteEngine on
+RewriteRule ^nexus-jenkins-plugin\.hpi$ /integrations/jenkins/nexus-jenkins-plugin-3.19.1-01.hpi [R=302,L]
+RewriteRule ^jenkins\.war$ /integrations/jenkins/war/2.426.1/jenkins.war [R=302,L]
